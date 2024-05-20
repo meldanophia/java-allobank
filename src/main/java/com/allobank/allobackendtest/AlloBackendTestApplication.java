@@ -7,7 +7,8 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class AlloBackendTestApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(AlloBackendTestApplication.class, args);
+//		SpringApplication.run(AlloBackendTestApplication.class, args);
+		System.out.println("lalala");
 	}
 
 }
